@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    background-color: rgb(104, 14, 14);
+    color: rgb(238, 159, 159);
+}
+
+header h1 {
+    font-size: 60px;
+    color: #ffcc00;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 25px;
+    word-spacing: 15px;
+    text-shadow: 2px 2px wheat;
+}
+
+.container {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
